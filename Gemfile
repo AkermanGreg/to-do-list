@@ -1,3 +1,4 @@
+
 source 'https://rubygems.org'
 
 
@@ -9,8 +10,6 @@ gem 'pg'
 gem 'factory_girl_rails'
 
 group :development, :test do
-
-
   #add in the gem for rspec
   gem 'rspec-rails', '~> 3.0.0'
 
